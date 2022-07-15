@@ -23,7 +23,7 @@
     "shortid": "^2.2.15",
     "sirv-cli": "^0.4.6",
     "sortablejs": "^1.10.2",
-    "svelte": "^3.24.0",
+    "svelte": "^3.49.0",
     "svelte-routing": "^1.4.2"
   },
   "dependencies": {}
